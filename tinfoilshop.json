@@ -1,4 +1,1 @@
-{
-    "directories": ["https://pengu.us", "https://redump.cf", "https://titz.cf", "https://quotanx.in", "https://nekoshop.cf", "https://stealthshop.cf"],
-    "success": "carcaschoi黑商店萬能服務器\nUltimate redirect shop Service by carcaschoi\n\nYou don't need to add shop manually if the shop link is updated\n\nFree and open source on github\n\n(Ads)You can watch my video (carcaschoi) on youtube :)\n\nService source:\nhttps://github.com/carcaschoi/tinfoil-json"
-}
+["usb:/","usbfs:/","sdmc:/","system:/","user:/","safe:/",{"url":"https://tiny.cc/eeveesaveproject","title":"Eevee Save Project","enabled":0},{"url":"https://stealthshop.cf","title":"Stealth Shop","enabled":0},{"url":"https://nekoshop.cf","title":"Nekoshop","enabled":0},{"url":"https://quotanx.in","title":"QuotaShop","enabled":0},{"url":"https://redump.cf","title":"ReDUMP Shop","enabled":0},{"url":"https://pengu.us","title":"Pengu shop","enabled":0},{"url":"https://titz.cf","title":"tits","enabled":0}]
