@@ -1,1 +1,43 @@
-["usb:/","usbfs:/","sdmc:/","system:/","user:/","safe:/",{"url":"https://tiny.cc/eeveesaveproject","title":"Eevee Save Project","enabled":0},{"url":"https://stealthshop.cf","title":"Stealth Shop","enabled":0},{"url":"https://nekoshop.cf","title":"Nekoshop","enabled":0},{"url":"https://quotanx.in","title":"QuotaShop","enabled":0},{"url":"https://redump.cf","title":"ReDUMP Shop","enabled":0},{"url":"https://pengu.us","title":"Pengu shop","enabled":0},{"url":"https://titz.cf","title":"tits","enabled":0}]
+[
+    "usb:/",
+    "usbfs:/",
+    "sdmc:/",
+    "system:/",
+    "user:/",
+    "safe:/",
+    {
+        "url":"https://tiny.cc/eeveesaveproject",
+        "title":"Eevee Save Project",
+        "enabled":0
+    },
+    {
+        "url":"https://stealthshop.cf",
+        "title":"Stealth Shop",
+        "enabled":0
+    },
+    {
+        "url":"https://nekoshop.cf",
+        "title":"Nekoshop",
+        "enabled":0
+    },
+    {
+        "url":"https://quotanx.in",
+        "title":"QuotaShop",
+        "enabled":0
+    },
+    {
+        "url":"https://redump.cf",
+        "title":"ReDUMP Shop",
+        "enabled":0
+    },
+    {
+        "url":"https://pengu.us",
+        "title":"Pengu shop",
+        "enabled":0
+    },
+    {
+        "url":"https://titz.cf",
+        "title":"tits",
+        "enabled":0
+    }
+]
